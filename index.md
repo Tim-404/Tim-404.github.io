@@ -17,7 +17,7 @@ Anyways, ignore that advertisment. As an aspiring computer scientist, here is my
 - [x] seeing text in dark mode
 - [x] learning the syntax of languages that I will never use
 - [x] going to school instead of bootcamping
-- [x] 
+- [x] thinking I know a lot
 - [x] applying a lot....
 - [x] getting an internship
 - [x] realizing I know ... not much
